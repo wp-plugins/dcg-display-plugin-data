@@ -25,7 +25,7 @@ This plugin display wordpress.org plugins data into pages / posts using simple s
 * Display specs with screenshot(s)
 `[dcg_display_plugin_data name='dcg-display-plugin-data' screenshot="true"]`
 * Display all data (everything)
-[dcg_display_plugin_data name='dcg-display-plugin-data' description="true" installation="true" faq="true" screenshots="true"]
+`[dcg_display_plugin_data name='dcg-display-plugin-data' description="true" installation="true" faq="true" screenshots="true"]`
 
 **P.S. It is aways the best policy to open a [support thread](http://wordpress.org/support/plugin/dcg-display-plugin-data) first before posting a negative review.**
 
