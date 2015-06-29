@@ -23,7 +23,7 @@ This plugin display WordPress.org plugin data such as version, requires and comp
 * Display specs with FAQ
 `[dcg_display_plugin_data name='dcg-display-plugin-data' faq="true"]`
 * Display specs with screenshot(s)
-`[dcg_display_plugin_data name='dcg-display-plugin-data' screenshot="true"]`
+`[dcg_display_plugin_data name='dcg-display-plugin-data' screenshots="true"]`
 * Display all data (everything)
 `[dcg_display_plugin_data name='dcg-display-plugin-data' description="true" installation="true" faq="true" screenshots="true"]`
 
@@ -56,7 +56,7 @@ This plugin display WordPress.org plugin data such as version, requires and comp
 * Display specs with FAQ
 `[dcg_display_plugin_data name='dcg-display-plugin-data' faq="true"]`
 * Display specs with screenshot(s)
-`[dcg_display_plugin_data name='dcg-display-plugin-data' screenshot="true"]`
+`[dcg_display_plugin_data name='dcg-display-plugin-data' screenshots="true"]`
 * Display all data (everything)
 `[dcg_display_plugin_data name='dcg-display-plugin-data' description="true" installation="true" faq="true" screenshots="true"]`
 
