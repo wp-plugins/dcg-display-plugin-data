@@ -29,11 +29,9 @@ This plugin display WordPress.org plugin data such as version, requires and comp
 
 *Change 'dcg-display-plugin-data' to appropriate plugin slug for which you want to display data.*
 
-**Note:** In shortcode, you must have to pass name attribute with the correct plugin slug.
-
+= Note: In shortcode, you must have to pass name attribute with the correct plugin slug =
 * Correct slug: dcg-display-plugin-data
-
-* Wrong slug: DCG Display Plugin Data 
+* Wrong slug: DCG Display Plugin Data
 
 **P.S. It is aways the best policy to open a [support thread](http://wordpress.org/support/plugin/dcg-display-plugin-data) first before posting a negative review.**
 
@@ -66,7 +64,6 @@ This plugin display WordPress.org plugin data such as version, requires and comp
 
 Last part of plugin URL (in WordPress.org) will be a plugin slug.
 For example, plugin slug for ***DCG Display Plugin Data*** will be ***dcg-display-plugin-data***
-
 ( https://wordpress.org/plugins/**dcg-display-plugin-data**/ )
 
 = Will DCG Display Plugin Data slow my site down? =
